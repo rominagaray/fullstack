@@ -1,4 +1,4 @@
-<?
+<?php
 echo "<h1>MUCHAS GRACIAS POR REGISTRARSE.</h1>";
 echo "<h2>estos son sus datos ingresados</h2>";
 //var_dump($_FILES ["adjuntarFoto"]["name"]);
